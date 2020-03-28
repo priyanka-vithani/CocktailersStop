@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AMTagListView (1.5.0)
+  - collection-view-layouts/Core (0.1.2)
+  - collection-view-layouts/PinterestLayout (0.1.2):
+    - collection-view-layouts/Core
+  - CollectionViewSlantedLayout (3.1.1)
+  - ImageScrollView (1.8)
+  - IQKeyboardManagerSwift (6.5.4)
+  - PinterestLayout (1.0.3)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - SwiftyJSON (5.0.0)
+  - TransitionButton (0.5.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AMTagListView
+  - collection-view-layouts/PinterestLayout
+  - CollectionViewSlantedLayout
+  - ImageScrollView
+  - IQKeyboardManagerSwift
+  - PinterestLayout
+  - SDWebImage (~> 3.8)
+  - SwiftMessages (~> 6.0.0)
+  - SwiftyJSON
+  - TransitionButton
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AMTagListView
+    - collection-view-layouts
+    - CollectionViewSlantedLayout
+    - ImageScrollView
+    - IQKeyboardManagerSwift
+    - PinterestLayout
+    - SDWebImage
+    - SwiftMessages
+    - SwiftyJSON
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AMTagListView: 08ab67466c67152f6299bc29a13a907783b0046f
+  collection-view-layouts: f3da16bf3211ecb885bb3e45160c2267edf5b65e
+  CollectionViewSlantedLayout: 24397455acd2461960bc45d394e0ef99c17d03ce
+  ImageScrollView: 82912273486297285682bdb2a806742f0d39940c
+  IQKeyboardManagerSwift: 2dde0fc70110e8eac7ccce2a46fdbec6a850b414
+  PinterestLayout: f1c7ec0254ffa842d69f1b43e4436c8ded4359b9
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  TransitionButton: fb271583d9c9e4bb116b97103047e5157653f233
+
+PODFILE CHECKSUM: a2c78052bd04f8fe9015e1f703fa84d68924d0b8
+
+COCOAPODS: 1.8.4
